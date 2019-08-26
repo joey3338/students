@@ -1,0 +1,11 @@
+{
+"emoji": ":scream:",
+"role": "Student",
+"introduction": "I love coding!",
+"achievements":  [
+  "Played three different sports in high school",
+ ].
+ "links": {
+    "linkedin": "https://www.linkedin.com/in/eric-miller-6aa6a1184/"
+ }
+ }
