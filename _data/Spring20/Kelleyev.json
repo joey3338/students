@@ -1,0 +1,13 @@
+{
+  "emoji": ":nut_and_bolt:", 
+  "role": "Student", 
+  "introduction": "I'm Evan Kelley and I'm roughly two and a half years into my IT school experience. Hopefully all will go well this semester!", // a short messgae that will be presented when you hover over your image
+  "achievements": [ // add some achivedments that you'd like to share with us
+    "This year I was fortunate enough to both get engaged and get a house of my own.",
+  ], 
+  "links": {
+    
+    "linkedin": "https://www.linkedin.com/in/evan-kelley-59aa71106/", // a link to your linkedin profile(remove if you don't want to share)
+    
+  }
+}
