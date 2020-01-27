@@ -1,0 +1,15 @@
+{
+  "emoji": :gemini:,
+  "role": "Student",
+  "introduction": "Hi, my name is Monica Walker. I am a third year student studying Theatre design and Producaion at CCM.I am excited to learn some more complex coputer programmingskills",
+  "achievements": [
+      "I received a new scholarships for spring semester",
+      "I passed all my classes last semester"
+    
+  ],
+  "links": {
+      
+      "linkedin": "https://www.linkedin.com/in/monica-walker-b91642141/",
+      
+  }
+}
