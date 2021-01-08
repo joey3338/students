@@ -10,7 +10,8 @@ $(function() {
       timeout: 2000,
       cache: true,
       headers: {
-        "Authorization": "token ebd5f42679c3b98760b723fd5806896479f439c6"
+        // the following token has user:read scope
+        "Authorization": "token e5080e688d8d5c7ce1f5211d642c12984236914a"
       },
       success: function(data) {
         console.log(data)
