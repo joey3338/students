@@ -1,0 +1,11 @@
+{
+  "emoji": ":smiley:",
+  "role": "Student",
+  "introduction": "My name is Prateek, I'm an IT major on the cybersecurity track. I'm looking forward to taking this class",
+  "achievements": [
+      "I'm in my 4th year at UC and currently looking for my final co-op.",
+      "I am a part of UC's Accelerated Program currently pursuing a MS degree in IT"
+  ],
+  "links": {
+      "linkedin": "https://www.linkedin.com/in/prateek-muneesh-chellani/",
+  }
