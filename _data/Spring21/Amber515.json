@@ -1,0 +1,12 @@
+{
+  "emoji": ":cherry_blossom:",
+  "role": "Student",
+  "introduction": "Hello everyone! My name is Amber.",
+  "achievements": [
+      "Learned about verious technologies through LinkedIn learning",
+      "Was invited to join Honor Society"
+  ],
+  "links": {
+      "linkedin": "https://www.linkedin.com/in/amberwillis-/",
+  }
+}
